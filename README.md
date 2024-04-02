@@ -1,5 +1,9 @@
 # Walmart-Sales-Data-Analysis
+
+"Walmart is a large retail corporation that operates a chain of discount department stores, hypermarkets, and grocery stores. It's known for offering a wide variety of products at affordable prices, including groceries, clothing, electronics, household goods, and more. Walmart is one of the world's largest retailers and serves millions of customers globally both in physical stores and online."
+
 Walmart Sales Data Analysis is a project aimed at extracting valuable insights from sales data collected by Walmart. The project involves analyzing various aspects of sales data, including product lines, branch performance, customer behavior, and sales trends over time, customer trends and many more.
+
 ---
 ### Columns Include : 
 - Invoice ID --> Unique identifier for each transaction.
