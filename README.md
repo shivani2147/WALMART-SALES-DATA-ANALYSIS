@@ -1,4 +1,4 @@
-# WALMART-SALES-DATA-ANALYSIS
+# Walmart-Sales-Data-Analysis
 
 "Walmart is a large retail corporation that operates a chain of discount department stores, hypermarkets, and grocery stores. It's known for offering a wide variety of products at affordable prices, including groceries, clothing, electronics, household goods, and more. Walmart is one of the world's largest retailers and serves millions of customers globally both in physical stores and online."
 
