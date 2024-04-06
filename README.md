@@ -24,7 +24,7 @@ Walmart Sales Data Analysis is a project aimed at extracting valuable insights f
 - Gross Income --> Revenue generated after deducting the COGS.
 - Rating --> Rating provided by the customer for the transaction.
 ---
-### Through this analysis, I seek to understand the following:
+### Through this analysis, I seek to understand of the following:
 1. Calculated Basic Statistics
     - Mean, Median, Mode, Minimum, Maximum, and Standard Deviation for "Unit Price" column
 2. Customer Analysis:
